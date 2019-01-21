@@ -9,7 +9,7 @@ Este documento `README.md` tem como objetivo fornecer as informações necessár
 ### Objetivo ###
 
 * Desenvolver uma aplicação React Native que consuma a API `Empresas`, cujo Postman esta compartilhado neste repositório (collection).
-* Você deve realizar um fork deste repositório, criar o projeto e, ao finalizar, solicitar um pull request para o nosso repositório. 
+* Você deve realizar um fork deste repositório e, ao finalizar, enviar o link do seu repositório para a nossa equipe. Lembre-se, **NÃO** é necessário criar um Pull Request para isso.
 * Nós iremos realizar a avaliação e te retornar um email com o resultado.
 
 
