@@ -59,7 +59,7 @@
 					"enabled": true
 				}
 			],
-			"url": " http://empresas.ioasys.com.br/api/v1/enterprises/1",
+			"url": " https://empresas.ioasys.com.br/api/v1/enterprises/1",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -107,7 +107,7 @@
 					"enabled": true
 				}
 			],
-			"url": " http://empresas.ioasys.com.br/api/v1/enterprises?enterprise_types=1&name=aQm",
+			"url": " https://empresas.ioasys.com.br/api/v1/enterprises?enterprise_types=1&name=aQm",
 			"queryParams": [
 				{
 					"key": "enterprise_types",
@@ -152,7 +152,7 @@
 					"enabled": true
 				}
 			],
-			"url": " http://empresas.ioasys.com.br/api/v1/users/auth/sign_in",
+			"url": " https://empresas.ioasys.com.br/api/v1/users/auth/sign_in",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -200,7 +200,7 @@
 					"enabled": true
 				}
 			],
-			"url": "http://empresas.ioasys.com.br/api/v1/enterprises",
+			"url": "https://empresas.ioasys.com.br/api/v1/enterprises",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
