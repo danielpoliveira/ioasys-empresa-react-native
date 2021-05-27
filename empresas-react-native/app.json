@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "empresas",
+    "slug": "empresas-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4db6ac"
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ioasys.empresas"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#4db6ac"
+      },
+      "package": "com.ioasys.empresas"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
