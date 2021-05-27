@@ -13,7 +13,7 @@
 ![N|Solid](screenshots/9-profile.png) 
 
 ## Instalação
-Para testar a vesão .apk do aplicativo clique [aqui](IoasysEmpresa.apk) para baixar.
+Para testar a versão .apk do aplicativo clique [aqui](IoasysEmpresa.apk) para baixar.
 
 ## Building e instruções de uso
 
@@ -29,11 +29,11 @@ $ yarn start
 
 Se quiser testar em apenas uma plataforma:
 ```
-$yarn start android
+$ yarn start android
 ```
 ou
 ```
-$yarn start ios
+$ yarn start ios
 ```
 
 ### Bibliotecas usadas ###
